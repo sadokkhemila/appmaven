@@ -25,7 +25,7 @@
       </snapshots>
       <id>central</id>
       <name>Central Repository</name>
-      <url>http://192.168.43.200:8081/repository/maven-gestion/</url>
+      <url>http://192.168.43.200:8081/repository/maven-gestionsnapshot/</url>
     </repository>
   </repositories>
   <pluginRepositories>
